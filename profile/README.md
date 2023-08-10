@@ -13,4 +13,5 @@
  ### [YouTube](https://youtube.com/@zndmc)
 
  ## 質問がある場合 
+ メールアドレス:
 ### **contact@zundamc.net**
