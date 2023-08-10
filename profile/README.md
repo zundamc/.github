@@ -7,10 +7,10 @@
 
 ## [公式サイトへアクセス](https://zundamc.net)
 
- ## その他リンク🔗
+ ## その他リンク
  ### [Discord](https://discord.gg/zundamc/)
  ### [Twitter](https://twitter.com/zundamon_mc)
  ### [YouTube](https://youtube.com/@zndmc)
 
  ## 質問がある場合 
- **contact@zundamc.net** まで
+### **contact@zundamc.net**
